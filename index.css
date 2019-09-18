@@ -34,3 +34,7 @@ ul {
 #nav ul li a:hover {
   background-color: #c3e4e8;
 }
+.links {
+  text-decoration: none;
+  color: black;
+}
